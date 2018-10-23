@@ -1,0 +1,20 @@
+How to change icons on a mac
+----------------------------
+
+Select the icon file from this download you want to apply and click CMD+C (Copy)
+
+Navigate to the application in your applications folder. Find the .app for the corresponding app. Ex. Applications > Adobe Lightroom Classic CC > Adobe Lightroom Classic CC.app
+
+Select the .app file and hold down CMD+I
+
+In the info panel for the app, click the little icon preview in the top left corner of the panel so that it's selected (it'll show an outline)
+
+Hit CMD+V to paste the icon
+
+You might be prompted to type in your admin password. Do this.
+
+You icon should now be changed.
+
+Got questions. Find me @flarup on twitter.
+
+Support my site applypixel.com for more.
